@@ -1,6 +1,5 @@
-Hello
 Sử dụng cái này phải không ông ?
 tui viết thêm dòng này nè ông 
 để tui thử coi lỗi sao hehe
 cố ý thêm dòng này để  bị nhánh master merge
-them dong nay de thay doi ben nhanh master
+them mot dong nưa ben nhanh other
