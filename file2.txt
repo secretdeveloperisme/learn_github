@@ -1,1 +1,3 @@
 Hello, ong oi chi tui su dung merge, conflict Git voi hehe
+okay ông lun, nó củng giống svn à ông ơi, tui chỉ ông web này nè hơi bị hay lun 
+https://learngitbranching.js.org/
